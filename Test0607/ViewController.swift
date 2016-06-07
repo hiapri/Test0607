@@ -16,6 +16,8 @@ class ViewController: UIViewController {
 		
 		//テスト更新
 		
+		//テスト更新02
+		
 	}
 
 	override func didReceiveMemoryWarning() {
